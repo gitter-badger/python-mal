@@ -3,6 +3,8 @@
 python-mal
 ==========
 
+[![Join the chat at https://gitter.im/rachmadaniHaryono/python-mal](https://badges.gitter.im/rachmadaniHaryono/python-mal.svg)](https://gitter.im/rachmadaniHaryono/python-mal?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Provides programmatic access to MyAnimeList data.
 
 Dependencies
